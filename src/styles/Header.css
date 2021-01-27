@@ -1,8 +1,18 @@
 /* Styling for Header */
 .header {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   background-color: #625261;
-  padding: 20px;
+  padding: 50px;
   color: #ffffff;
   text-align: center;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 100%;
+  padding: 10px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
 }

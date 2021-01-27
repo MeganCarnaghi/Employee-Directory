@@ -6,7 +6,10 @@ function Header() {
   return (
     <div className="header">
       <h1>Employee Directory</h1>
-      <p>Directions On How To Use This Directory</p>
+      <p>
+        Click on the Name or DOB headings to filter or use the search box to
+        narrow your results.
+      </p>
     </div>
   );
 }
