@@ -1,8 +1,18 @@
-form {
-  margin-top: 2%;
-  width: 20%;
+.form {
+  display: flex;
+  justify-content: center;
 }
 
-div {
-  background-color: #e8e8e8;
+.form-group {
+  display: flex;
+  width: 50%;
+}
+
+.form__button {
+  background-color: #31605a;
+  font-family: "Yusei Magic", sans-serif;
+  font-size: 20px;
+  color: #f2e9e4;
+  padding: 5px 15px;
+  border-radius: 8px;
 }

@@ -5,10 +5,10 @@ import "../styles/Header.css";
 function Header() {
   return (
     <div className="header">
-      <h1>Employee Directory</h1>
-      <p>
-        Click on the Name or DOB headings to filter or use the search box to
-        narrow your results.
+      <h1 class="header__h1">Employee Directory</h1>
+      <p className="header__paragraph">
+        Click on the headings to sort the data or use the search box to narrow
+        your results.
       </p>
     </div>
   );

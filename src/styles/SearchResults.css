@@ -1,0 +1,9 @@
+.text-center {
+  color: #ffffff;
+  vertical-align: middle;
+}
+
+.img-fluid {
+  width: 100px;
+  border-radius: 50%;
+}

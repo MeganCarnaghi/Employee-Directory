@@ -1,20 +1,24 @@
 import React from "react";
 import "../styles/SearchBar.css";
 
-// Search Bar
-function SearchBar(props) {
+function SearchBar({ handleInputChange, handleFormSubmit, search }) {
   return (
-    <div className="row justify-content-center">
-      <form>
+    <form className="form">
+      <div className="form-group mt-5 mb-5">
+        <button onClick={handleFormSubmit} className="form__button">
+          Search
+        </button>
         <input
+          onChange={handleInputChange}
+          name="search"
           type="text"
-          className="form-control"
-          value={props.search}
-          onChange={props.handleChange}
-          placeholder="Start typing a name, email, etc."
+          className="form-control form-control-lg"
+          placeholder="Start typing to search for an employee"
+          id="search"
+          value={search}
         />
-      </form>
-    </div>
+      </div>
+    </form>
   );
 }
 
