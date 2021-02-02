@@ -51,6 +51,8 @@ Deployed Application:
 
 ## Screenshots
 
+![screenshot](public/Images/Screenshot.png)
+
 ## License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
