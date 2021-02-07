@@ -41,17 +41,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #### To Use Deployed Application:
 
-Go to: https://quiet-thicket-25023.herokuapp.com/
-
-Or: https://megancarnaghi.github.io/Employee-Directory/
+Go to: https://megancarnaghi.github.io/Employee-Directory/
 
 ## Links
 
 GitHub Repository: https://github.com/MeganCarnaghi/Employee-Directory.git
 
-Deployed Application (Heroku): https://quiet-thicket-25023.herokuapp.com/
-
-Deployed Application (Github Pages): https://megancarnaghi.github.io/Employee-Directory/
+Deployed Application: https://megancarnaghi.github.io/Employee-Directory/
 
 ## Screenshots
 
