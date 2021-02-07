@@ -43,11 +43,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Go to: https://quiet-thicket-25023.herokuapp.com/
 
+Or: https://megancarnaghi.github.io/Employee-Directory/
+
 ## Links
 
 GitHub Repository: https://github.com/MeganCarnaghi/Employee-Directory.git
 
-Deployed Application: https://quiet-thicket-25023.herokuapp.com/
+Deployed Application (Heroku): https://quiet-thicket-25023.herokuapp.com/
+
+Deployed Application (Github Pages): https://megancarnaghi.github.io/Employee-Directory/
 
 ## Screenshots
 
