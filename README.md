@@ -35,7 +35,9 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 In the project directory, you can run:
 
-`npm start`
+`npm install` to install required dependencies.  
+
+`npm start` to start the application.  
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
